@@ -1,6 +1,6 @@
 # Assembly Language Lab Exercises
 
-This repository contains assembly language lab exercises designed for students at the Universidad Internacional de la Rioja. These exercises cover three key topics: finding the largest number, finding the smallest number, and generating the Fibonacci series. Each exercise includes validation checks and accepts command-line parameters.
+This repository contains assembly language lab exercises designed for Universidad Internacional de la Rioja. These exercises cover three key topics: finding the largest number, finding the smallest number, and generating the Fibonacci series. Each exercise includes validation checks and accepts command-line parameters.
 
 ## Prerequisites
 
@@ -20,7 +20,7 @@ To compile and execute the assembly language files using MARS, follow these step
 java -jar /path/to/Mars.jar
 
 
-4. In MARS, open the assembly file you want to work with (e.g., `FindLargest.asm`, `FindSmallest.asm`, or `Fibonacci.asm`).
+4. In MARS, open the assembly file you want to work with (e.g., `Ej1.asm (FindLargest)`, `Ej2.asm (FindSmallest)`, or `Ej3.asm (Fibonacci)`).
 5. Use MARS to assemble and run the code. Follow the instructions in the MARS documentation if you are unfamiliar with its usage.
 
 ## Exercises
